@@ -12,6 +12,7 @@ public class Empleados {
     private String seccion;
     private int id;
     private static int idSiguiente =1;
+    private String direccion;
 
     /**
      * Constructor de la clase Empleados.
